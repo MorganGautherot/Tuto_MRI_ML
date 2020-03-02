@@ -1,111 +1,111 @@
 id,t1_norm,age
-331,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-331_T1_reorient_std_norm.nii.gz,23.0
-064,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-064_T1_reorient_std_norm.nii.gz,20.0
-426,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-426_T1_reorient_std_norm.nii.gz,23.0
-230,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-230_T1_reorient_std_norm.nii.gz,21.0
-201,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-201_T1_reorient_std_norm.nii.gz,22.0
-112,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-112_T1_reorient_std_norm.nii.gz,23.0
-153,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-153_T1_reorient_std_norm.nii.gz,22.0
-095,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-095_T1_reorient_std_norm.nii.gz,24.0
-258,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-258_T1_reorient_std_norm.nii.gz,22.0
-070,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-070_T1_reorient_std_norm.nii.gz,20.0
-320,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-320_T1_reorient_std_norm.nii.gz,29.0
-238,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-238_T1_reorient_std_norm.nii.gz,27.0
-293,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-293_T1_reorient_std_norm.nii.gz,26.0
-563,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-563_T1_reorient_std_norm.nii.gz,28.0
-173,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-173_T1_reorient_std_norm.nii.gz,29.0
-135,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-135_T1_reorient_std_norm.nii.gz,29.0
-233,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-233_T1_reorient_std_norm.nii.gz,26.0
-522,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-522_T1_reorient_std_norm.nii.gz,28.0
-111,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-111_T1_reorient_std_norm.nii.gz,25.0
-549,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-549_T1_reorient_std_norm.nii.gz,25.0
-234,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-234_T1_reorient_std_norm.nii.gz,33.0
-086,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-086_T1_reorient_std_norm.nii.gz,30.0
-119,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-119_T1_reorient_std_norm.nii.gz,32.0
-139,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-139_T1_reorient_std_norm.nii.gz,32.0
-184,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-184_T1_reorient_std_norm.nii.gz,30.0
-107,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-107_T1_reorient_std_norm.nii.gz,31.0
-242,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-242_T1_reorient_std_norm.nii.gz,31.0
-241,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-241_T1_reorient_std_norm.nii.gz,30.0
-177,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-177_T1_reorient_std_norm.nii.gz,34.0
-049,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-049_T1_reorient_std_norm.nii.gz,31.0
-002,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-002_T1_reorient_std_norm.nii.gz,35.0
-267,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-267_T1_reorient_std_norm.nii.gz,35.0
-160,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-160_T1_reorient_std_norm.nii.gz,39.0
-517,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-517_T1_reorient_std_norm.nii.gz,36.0
-084,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-084_T1_reorient_std_norm.nii.gz,38.0
-218,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-218_T1_reorient_std_norm.nii.gz,35.0
-195,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-195_T1_reorient_std_norm.nii.gz,37.0
-077,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-077_T1_reorient_std_norm.nii.gz,36.0
-601,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-601_T1_reorient_std_norm.nii.gz,35.0
-541,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-541_T1_reorient_std_norm.nii.gz,36.0
-390,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-390_T1_reorient_std_norm.nii.gz,41.0
-330,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-330_T1_reorient_std_norm.nii.gz,44.0
-528,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-528_T1_reorient_std_norm.nii.gz,40.0
-054,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-054_T1_reorient_std_norm.nii.gz,41.0
-191,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-191_T1_reorient_std_norm.nii.gz,44.0
-188,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-188_T1_reorient_std_norm.nii.gz,44.0
-168,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-168_T1_reorient_std_norm.nii.gz,43.0
-525,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-525_T1_reorient_std_norm.nii.gz,41.0
-285,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-285_T1_reorient_std_norm.nii.gz,40.0
-662,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-662_T1_reorient_std_norm.nii.gz,41.0
-424,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-424_T1_reorient_std_norm.nii.gz,46.0
-145,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-145_T1_reorient_std_norm.nii.gz,49.0
-101,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-101_T1_reorient_std_norm.nii.gz,45.0
-625,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-625_T1_reorient_std_norm.nii.gz,47.0
-395,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-395_T1_reorient_std_norm.nii.gz,45.0
-198,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-198_T1_reorient_std_norm.nii.gz,45.0
-244,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-244_T1_reorient_std_norm.nii.gz,49.0
-314,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-314_T1_reorient_std_norm.nii.gz,45.0
-066,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-066_T1_reorient_std_norm.nii.gz,46.0
-221,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-221_T1_reorient_std_norm.nii.gz,48.0
-410,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-410_T1_reorient_std_norm.nii.gz,53.0
-360,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-360_T1_reorient_std_norm.nii.gz,54.0
-053,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-053_T1_reorient_std_norm.nii.gz,53.0
-402,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-402_T1_reorient_std_norm.nii.gz,53.0
-318,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-318_T1_reorient_std_norm.nii.gz,54.0
-408,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-408_T1_reorient_std_norm.nii.gz,52.0
-206,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-206_T1_reorient_std_norm.nii.gz,50.0
-299,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-299_T1_reorient_std_norm.nii.gz,53.0
-286,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-286_T1_reorient_std_norm.nii.gz,54.0
-368,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-368_T1_reorient_std_norm.nii.gz,54.0
-156,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-156_T1_reorient_std_norm.nii.gz,59.0
-622,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-622_T1_reorient_std_norm.nii.gz,59.0
-351,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-351_T1_reorient_std_norm.nii.gz,56.0
-591,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-591_T1_reorient_std_norm.nii.gz,59.0
-076,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-076_T1_reorient_std_norm.nii.gz,55.0
-061,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-061_T1_reorient_std_norm.nii.gz,59.0
-432,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-432_T1_reorient_std_norm.nii.gz,57.0
-418,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-418_T1_reorient_std_norm.nii.gz,59.0
-616,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-616_T1_reorient_std_norm.nii.gz,55.0
-405,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-405_T1_reorient_std_norm.nii.gz,58.0
-453,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-453_T1_reorient_std_norm.nii.gz,63.0
-277,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-277_T1_reorient_std_norm.nii.gz,61.0
-186,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-186_T1_reorient_std_norm.nii.gz,61.0
-577,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-577_T1_reorient_std_norm.nii.gz,64.0
-393,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-393_T1_reorient_std_norm.nii.gz,60.0
-452,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-452_T1_reorient_std_norm.nii.gz,63.0
-350,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-350_T1_reorient_std_norm.nii.gz,62.0
-324,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-324_T1_reorient_std_norm.nii.gz,60.0
-305,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-305_T1_reorient_std_norm.nii.gz,62.0
-496,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-496_T1_reorient_std_norm.nii.gz,62.0
-443,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-443_T1_reorient_std_norm.nii.gz,69.0
-548,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-548_T1_reorient_std_norm.nii.gz,66.0
-379,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-379_T1_reorient_std_norm.nii.gz,66.0
-535,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-535_T1_reorient_std_norm.nii.gz,65.0
-465,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-465_T1_reorient_std_norm.nii.gz,69.0
-249,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-249_T1_reorient_std_norm.nii.gz,68.0
-534,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-534_T1_reorient_std_norm.nii.gz,69.0
-603,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-603_T1_reorient_std_norm.nii.gz,66.0
-335,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-335_T1_reorient_std_norm.nii.gz,69.0
-537,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-537_T1_reorient_std_norm.nii.gz,67.0
-274,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-274_T1_reorient_std_norm.nii.gz,73.0
-605,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-605_T1_reorient_std_norm.nii.gz,70.0
-415,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-415_T1_reorient_std_norm.nii.gz,72.0
-115,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-115_T1_reorient_std_norm.nii.gz,72.0
-543,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-543_T1_reorient_std_norm.nii.gz,70.0
-327,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-327_T1_reorient_std_norm.nii.gz,73.0
-377,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-377_T1_reorient_std_norm.nii.gz,72.0
-383,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-383_T1_reorient_std_norm.nii.gz,74.0
-531,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-531_T1_reorient_std_norm.nii.gz,75.0
-497,/NAS/deathrow/morgan/TP_IRM/Tuto_MRI_ML/tp_4/data/test/sub-497_T1_reorient_std_norm.nii.gz,72.0
+331,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-331_T1_reorient_std_norm.nii.gz,23.0
+64,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-064_T1_reorient_std_norm.nii.gz,20.0
+426,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-426_T1_reorient_std_norm.nii.gz,23.0
+230,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-230_T1_reorient_std_norm.nii.gz,21.0
+201,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-201_T1_reorient_std_norm.nii.gz,22.0
+112,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-112_T1_reorient_std_norm.nii.gz,23.0
+153,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-153_T1_reorient_std_norm.nii.gz,22.0
+95,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-095_T1_reorient_std_norm.nii.gz,24.0
+258,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-258_T1_reorient_std_norm.nii.gz,22.0
+70,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-070_T1_reorient_std_norm.nii.gz,20.0
+320,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-320_T1_reorient_std_norm.nii.gz,29.0
+238,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-238_T1_reorient_std_norm.nii.gz,27.0
+293,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-293_T1_reorient_std_norm.nii.gz,26.0
+563,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-563_T1_reorient_std_norm.nii.gz,28.0
+173,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-173_T1_reorient_std_norm.nii.gz,29.0
+135,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-135_T1_reorient_std_norm.nii.gz,29.0
+233,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-233_T1_reorient_std_norm.nii.gz,26.0
+522,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-522_T1_reorient_std_norm.nii.gz,28.0
+111,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-111_T1_reorient_std_norm.nii.gz,25.0
+549,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-549_T1_reorient_std_norm.nii.gz,25.0
+234,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-234_T1_reorient_std_norm.nii.gz,33.0
+86,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-086_T1_reorient_std_norm.nii.gz,30.0
+119,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-119_T1_reorient_std_norm.nii.gz,32.0
+139,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-139_T1_reorient_std_norm.nii.gz,32.0
+184,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-184_T1_reorient_std_norm.nii.gz,30.0
+107,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-107_T1_reorient_std_norm.nii.gz,31.0
+242,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-242_T1_reorient_std_norm.nii.gz,31.0
+241,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-241_T1_reorient_std_norm.nii.gz,30.0
+177,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-177_T1_reorient_std_norm.nii.gz,34.0
+49,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-049_T1_reorient_std_norm.nii.gz,31.0
+2,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-002_T1_reorient_std_norm.nii.gz,35.0
+267,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-267_T1_reorient_std_norm.nii.gz,35.0
+160,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-160_T1_reorient_std_norm.nii.gz,39.0
+517,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-517_T1_reorient_std_norm.nii.gz,36.0
+84,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-084_T1_reorient_std_norm.nii.gz,38.0
+218,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-218_T1_reorient_std_norm.nii.gz,35.0
+195,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-195_T1_reorient_std_norm.nii.gz,37.0
+77,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-077_T1_reorient_std_norm.nii.gz,36.0
+601,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-601_T1_reorient_std_norm.nii.gz,35.0
+541,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-541_T1_reorient_std_norm.nii.gz,36.0
+390,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-390_T1_reorient_std_norm.nii.gz,41.0
+330,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-330_T1_reorient_std_norm.nii.gz,44.0
+528,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-528_T1_reorient_std_norm.nii.gz,40.0
+54,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-054_T1_reorient_std_norm.nii.gz,41.0
+191,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-191_T1_reorient_std_norm.nii.gz,44.0
+188,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-188_T1_reorient_std_norm.nii.gz,44.0
+168,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-168_T1_reorient_std_norm.nii.gz,43.0
+525,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-525_T1_reorient_std_norm.nii.gz,41.0
+285,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-285_T1_reorient_std_norm.nii.gz,40.0
+662,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-662_T1_reorient_std_norm.nii.gz,41.0
+424,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-424_T1_reorient_std_norm.nii.gz,46.0
+145,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-145_T1_reorient_std_norm.nii.gz,49.0
+101,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-101_T1_reorient_std_norm.nii.gz,45.0
+625,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-625_T1_reorient_std_norm.nii.gz,47.0
+395,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-395_T1_reorient_std_norm.nii.gz,45.0
+198,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-198_T1_reorient_std_norm.nii.gz,45.0
+244,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-244_T1_reorient_std_norm.nii.gz,49.0
+314,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-314_T1_reorient_std_norm.nii.gz,45.0
+66,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-066_T1_reorient_std_norm.nii.gz,46.0
+221,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-221_T1_reorient_std_norm.nii.gz,48.0
+410,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-410_T1_reorient_std_norm.nii.gz,53.0
+360,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-360_T1_reorient_std_norm.nii.gz,54.0
+53,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-053_T1_reorient_std_norm.nii.gz,53.0
+402,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-402_T1_reorient_std_norm.nii.gz,53.0
+318,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-318_T1_reorient_std_norm.nii.gz,54.0
+408,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-408_T1_reorient_std_norm.nii.gz,52.0
+206,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-206_T1_reorient_std_norm.nii.gz,50.0
+299,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-299_T1_reorient_std_norm.nii.gz,53.0
+286,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-286_T1_reorient_std_norm.nii.gz,54.0
+368,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-368_T1_reorient_std_norm.nii.gz,54.0
+156,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-156_T1_reorient_std_norm.nii.gz,59.0
+622,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-622_T1_reorient_std_norm.nii.gz,59.0
+351,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-351_T1_reorient_std_norm.nii.gz,56.0
+591,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-591_T1_reorient_std_norm.nii.gz,59.0
+76,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-076_T1_reorient_std_norm.nii.gz,55.0
+61,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-061_T1_reorient_std_norm.nii.gz,59.0
+432,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-432_T1_reorient_std_norm.nii.gz,57.0
+418,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-418_T1_reorient_std_norm.nii.gz,59.0
+616,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-616_T1_reorient_std_norm.nii.gz,55.0
+405,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-405_T1_reorient_std_norm.nii.gz,58.0
+453,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-453_T1_reorient_std_norm.nii.gz,63.0
+277,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-277_T1_reorient_std_norm.nii.gz,61.0
+186,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-186_T1_reorient_std_norm.nii.gz,61.0
+577,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-577_T1_reorient_std_norm.nii.gz,64.0
+393,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-393_T1_reorient_std_norm.nii.gz,60.0
+452,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-452_T1_reorient_std_norm.nii.gz,63.0
+350,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-350_T1_reorient_std_norm.nii.gz,62.0
+324,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-324_T1_reorient_std_norm.nii.gz,60.0
+305,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-305_T1_reorient_std_norm.nii.gz,62.0
+496,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-496_T1_reorient_std_norm.nii.gz,62.0
+443,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-443_T1_reorient_std_norm.nii.gz,69.0
+548,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-548_T1_reorient_std_norm.nii.gz,66.0
+379,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-379_T1_reorient_std_norm.nii.gz,66.0
+535,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-535_T1_reorient_std_norm.nii.gz,65.0
+465,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-465_T1_reorient_std_norm.nii.gz,69.0
+249,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-249_T1_reorient_std_norm.nii.gz,68.0
+534,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-534_T1_reorient_std_norm.nii.gz,69.0
+603,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-603_T1_reorient_std_norm.nii.gz,66.0
+335,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-335_T1_reorient_std_norm.nii.gz,69.0
+537,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-537_T1_reorient_std_norm.nii.gz,67.0
+274,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-274_T1_reorient_std_norm.nii.gz,73.0
+605,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-605_T1_reorient_std_norm.nii.gz,70.0
+415,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-415_T1_reorient_std_norm.nii.gz,72.0
+115,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-115_T1_reorient_std_norm.nii.gz,72.0
+543,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-543_T1_reorient_std_norm.nii.gz,70.0
+327,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-327_T1_reorient_std_norm.nii.gz,73.0
+377,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-377_T1_reorient_std_norm.nii.gz,72.0
+383,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-383_T1_reorient_std_norm.nii.gz,74.0
+531,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-531_T1_reorient_std_norm.nii.gz,75.0
+497,/content/gdrive/My Drive/tp_4/data/test/sub-<built-in function id>_sub-497_T1_reorient_std_norm.nii.gz,72.0
